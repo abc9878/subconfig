@@ -1,0 +1,9 @@
+# https://www.cloudflare.com/
+# created by abc9878
+# repo:https://github.com/abc9878/subconfig/
+DOMAIN-SUFFIX,api.cloudflare.com
+DOMAIN-SUFFIX,update.argotunnel.com
+DOMAIN-SUFFIX,cloudflareresearch.com
+DOMAIN-SUFFIX,v2.argotunnel.com
+IP-CIDR,198.41.192.0/24
+IP-CIDR,198.41.200.0/24
